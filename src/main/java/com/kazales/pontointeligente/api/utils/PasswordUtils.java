@@ -1,6 +1,5 @@
 package com.kazales.pontointeligente.api.utils;
 
-import org.springframework.security.crypto.bcrypt.BCrypt;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import java.util.Objects;
